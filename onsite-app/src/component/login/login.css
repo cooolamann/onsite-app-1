@@ -1,0 +1,72 @@
+.container
+{
+
+   
+    color: white;
+    position:absolute;
+    top: 35%;
+    left: 40%;
+}
+
+.container h1{
+
+   
+    font-size: 40px;
+    border-bottom: 5px solid red;
+    margin-bottom:43px;
+    padding: 13px 0;
+}
+
+.box{
+width: 100%;
+border: none;
+outline: none;
+color: white;
+border-bottom: 2px solid black;
+
+
+}
+
+.box i{
+width:25px;
+padding: 0px 12px;
+text-align: center;
+
+}
+
+.box input{
+    background: none;
+    width: 75%;
+    margin: 12px 0px;
+    padding: 5px 10px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    color:white;
+}
+
+.btn
+{
+    cursor: pointer;
+    outline: none;
+    
+    margin: 15px 150px;
+    padding: 10px,21px ;
+    border-radius: 0px;
+    background:none;
+    border: red;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+   
+    
+}
+
+.btn:hover
+{
+    
+    color: black;
+    background: white;
+   
+    
+}
